@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jung-kwanhee/3-2/컴퓨터알고리즘실습/프로젝트/BFS -B /Users/jung-kwanhee/3-2/컴퓨터알고리즘실습/프로젝트/BFS/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jung-kwanhee/3-2/컴퓨터알고리즘실습/프로젝트/BFS/cmake-build-debug
